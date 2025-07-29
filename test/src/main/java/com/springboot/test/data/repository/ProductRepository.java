@@ -1,4 +1,4 @@
-package com.springboot.test.repository;
+package com.springboot.test.data.repository;
 
 import com.springboot.test.data.entity.Product;
 import org.springframework.data.jpa.repository.JpaRepository;
